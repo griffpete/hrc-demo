@@ -97,6 +97,10 @@ const replies = {
 
   directions_pasadena: text(
     "See you there. We're on South Arroyo Parkway just past Del Mar. Park in the structure behind the building and bring your ticket up with you for validation."
+  ),
+
+  take_survey: text(
+    "Thank you! We appreciate you taking the time to share your feedback."
   )
 };
 
